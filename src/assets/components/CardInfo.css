@@ -1,0 +1,26 @@
+.cardInfo{
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 1em 0.5em ;
+    background-color: #011e23f3;
+    color: azure;
+    border-radius: 1em;
+    box-shadow: 1px 1px 5px 1px #9df4ff4a;
+    text-align: center;
+
+}
+.cardInfo-title{
+    color: var(--text);
+    margin-bottom: 0.5em;
+}
+.cardInfo__container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.cardInfo__item{
+    width: 100%;
+}
+.cardInfo__item--data{
+    color: rgb(175, 175, 175);
+}

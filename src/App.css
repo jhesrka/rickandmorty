@@ -1,0 +1,13 @@
+.hero{
+    width: 100%;
+    height: 25vh;
+    background-image: url('https://preview.redd.it/5ar7o65lpt2b1.jpg?auto=webp&s=50faeee11dfd4f63e81315e9b57d1a95b089bdc2');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 0.75em;
+}
